@@ -2,7 +2,7 @@ Peer-graded Assignment: Smartphone Fitness Analysis
 
 --Dataset--
 
-Human Activity Recognition Using Smartphones
+Human Activity Recognition Using Smartphones.
 
 --Files--
 
