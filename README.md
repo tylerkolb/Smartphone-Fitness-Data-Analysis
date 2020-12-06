@@ -4,7 +4,7 @@ Peer-graded Assignment: Smartphone Fitness Analysis
 
 Human Activity Recognition Using Smartphones.
 
---Files--
+--Files-
 
 CodeBook.md a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
 
